@@ -1,0 +1,76 @@
+body {
+    font-family: sans-serif;
+}
+  
+#container {
+  width: 500px;
+  margin: 0 auto;  
+  font-size: 20px;
+  
+}
+#container h1{
+  font-size: 50px;
+}
+#newTask{
+  border: none;
+  outline: none;
+  padding: 12px 20px;
+  font-size: 18px;
+  margin: 2% 0;
+  border-radius: 5px;
+  color: black;
+}
+#addTask{
+  border: none;
+  outline: none;
+  padding: 12px 20px;
+  font-size: 18px;
+  margin: 2% 0;
+  border-radius: 5px;
+  background-color:#2b8a3e;
+  color: #ffffff;
+  cursor: pointer;
+}
+.important{
+  width: 500px;
+    margin: 0 auto;
+  }
+  
+  .new-user{
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    margin: 2% 0;
+    border-radius: 5px;
+    background-color:#2b8a3e;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+
+
+  /* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+  } */
+  
+  /* .completed {
+    text-decoration: line-through;
+  }
+  
+  .important {
+    background-color: red;
+  }
+  
+  .urgent {
+    color: red;
+  } */
+  

@@ -1,0 +1,40 @@
+.form{
+    margin-left: 40%;
+    margin-top: 5%;
+}
+input{
+    padding: 20px 50px;
+    font-size: large;
+    border:solid 2px #2b8a3e;
+    border-radius: 5px;
+}
+.add{
+    background-color: #2b8a3e;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px;
+    margin-top: 5%;
+    font-size: 18px;
+    margin-left: 5%;
+}
+.delete{
+    background-color: #2b8a3e;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: large;
+}
+.back{
+    background-color: #2b8a3e;
+    color: #473452;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-top: 5%;
+    margin-left: 15%;
+    font-size: 18px;
+}
